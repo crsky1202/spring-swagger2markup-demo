@@ -1,5 +1,5 @@
 = Swagger2Markup Demo
-:author: Robert Winkler
+:author: Robert Winkler  xiaoyongjun_2006@126.com 亲测可用
 :version: 1.1.0
 :hardbreaks:
 
