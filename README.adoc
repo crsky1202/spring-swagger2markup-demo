@@ -1,5 +1,6 @@
 = Swagger2Markup Demo
-:author: Robert Winkler  xiaoyongjun_2006@126.com 亲测可用
+
+:author: Robert Winkler  
 :version: 1.1.0
 :hardbreaks:
 
@@ -11,6 +12,8 @@ This project is a https://github.com/RobWin/swagger2markup[Swagger2Markup] (Asci
 The demo shows how to generate static docs (HTML5 and PDF) with the https://github.com/RobWin/swagger2markup-gradle-plugin[swagger2markup-gradle-plugin] and serve them in a Spring Boot app under http://localhost:9080/docs/index.html and http://localhost:9080/docs/index.pdf.
 
 See https://github.com/RobWin/swagger2markup[Swagger2Markup] and https://github.com/RobWin/swagger2markup-gradle-plugin[swagger2markup-gradle-plugin] for more details and usage guide.
+
+xiaoyongjun_2006@126.com 亲测可用
 
 == Usage guide
 
